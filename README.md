@@ -1,16 +1,14 @@
-# color_detect
+# 功能
+一个ps颜色工具,可以查找当前颜色相近的颜色和相近的中国色, 可以查找和目标颜色的区别,并给出建议
+建议分为三个方面,色彩平衡,色相饱和度,和可选颜色,只能做参照
 
-A new Flutter project.
+# 使用截图
+![](https://www.lookpic.cn/image/%E5%9B%BE%E7%89%87.Ovf1)
 
-## Getting Started
+# 使用
+左侧的输入框可以输入十六进制的颜色,回车会进行比对,默认加载assets/colors.json中的中国色,可以写一个适配器去适配其他的颜色配置文件
+右侧的输入框回车后会对比左侧的颜色,左侧的颜色经过ps中部分功能的变换得到右边的颜色,但目前仅作参考
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 待完善
+- 屏幕取色功能做了很久,一直有问题,目前用不了,有能力的大佬可以提pr
+- 色彩建议功能,感兴趣的大佬可以提pr, 提建议的算法目前很简陋
