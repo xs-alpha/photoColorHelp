@@ -4,13 +4,13 @@
 
 # 使用截图
 
-![](https://pic1.imgdb.cn/item/677cbaa0d0e0a243d4f10312.png)
+![https://pic1.imgdb.cn/item/677cbaa0d0e0a243d4f10312.png](https://pic1.imgdb.cn/item/677cbaa0d0e0a243d4f10312.png)
 
-![](https://pic1.imgdb.cn/item/677cbad3d0e0a243d4f10352.png)
+![https://pic1.imgdb.cn/item/677cbad3d0e0a243d4f10352.png](https://pic1.imgdb.cn/item/677cbad3d0e0a243d4f10352.png)
 
-![](https://pic1.imgdb.cn/item/677cbaf6d0e0a243d4f10389.png)
+![https://pic1.imgdb.cn/item/677cbaf6d0e0a243d4f10389.png](https://pic1.imgdb.cn/item/677cbaf6d0e0a243d4f10389.png)
 
-![](https://pic1.imgdb.cn/item/677cba65d0e0a243d4f102ca.png)
+![https://pic1.imgdb.cn/item/677cba65d0e0a243d4f102ca.png](https://pic1.imgdb.cn/item/677cba65d0e0a243d4f102ca.png)
 
 # 使用
 左侧的输入框可以输入十六进制的颜色,回车会进行比对,默认加载assets/colors.json中的中国色,可以写一个适配器去适配其他的颜色配置文件
