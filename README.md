@@ -1,9 +1,17 @@
 # 功能
-一个ps颜色工具,可以查找当前颜色相近的颜色和相近的中国色, 可以查找和目标颜色的区别,并给出建议
+一个ps颜色工具,可以帮助对颜色不敏感的同学调色,可以查找当前颜色相近的颜色和相近的中国色, 可以查找和目标颜色的区别,并给出建议
 建议分为三个方面,色彩平衡,色相饱和度,和可选颜色,只能做参照
 
 # 使用截图
-![](https://www.lookpic.cn/image/%E5%9B%BE%E7%89%87.Ovf1)
+
+
+![](https://pic1.imgdb.cn/item/677cbaa0d0e0a243d4f10312.png)
+
+![](https://pic1.imgdb.cn/item/677cbad3d0e0a243d4f10352.png)
+
+![](https://pic1.imgdb.cn/item/677cbaf6d0e0a243d4f10389.png)
+
+![](https://pic1.imgdb.cn/item/677cba65d0e0a243d4f102ca.png)
 
 # 使用
 左侧的输入框可以输入十六进制的颜色,回车会进行比对,默认加载assets/colors.json中的中国色,可以写一个适配器去适配其他的颜色配置文件
